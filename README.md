@@ -135,7 +135,7 @@ R² Score
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Gold-Price-Prediction.git
+git clone https://github.com/nobiranjith/Gold-Price-Prediction.git
 
 Navigate to the project folder:
 
